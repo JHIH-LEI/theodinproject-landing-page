@@ -5,11 +5,13 @@
 
 * {
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
+
 body {
   display: flex;
   flex-direction: column;
-  font-family: "Roboto";
+
   height: 100vh;
   margin: 0;
 }
